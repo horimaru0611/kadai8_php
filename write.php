@@ -28,7 +28,6 @@ fclose($file);
 
 <ul>
 <a href="read.php">アンケート結果を見る</a>
-<br><a href="input.php">戻る</a>
 </ul>
 </body>
 </html>

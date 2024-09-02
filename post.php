@@ -37,7 +37,7 @@
 	<input type="submit" value="送信">
 </form>
 <ul>
-<li><a href="index.php">index.php</a></li>
+<a href="read.php">アンケート結果を見る</a>
 </ul>
 </body>
 </html>
